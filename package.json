@@ -12,7 +12,7 @@
     "request": "^2.45.0",
     "root": "^2.0.0",
     "send": "^0.10.1",
-    "websocket-stream": "^1.0.2",
+    "websocket-stream": "^5.2.0",
     "ws": "^0.4.32"
   },
   "devDependencies": {},
